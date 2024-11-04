@@ -17,7 +17,7 @@ This 5-week program is designed to introduce and develop understanding of RL con
 
 > **Note:** The weekly plan will be updated every week. Please keep an eye on it!
 
-### [Week 1:](./Week1/README.md)
+### [Week 1](./Week1/README.md)
 
 
 
