@@ -35,7 +35,7 @@ Here are some tutorials on NumPy:
 - [**w3schools**](https://www.w3schools.com/python/numpy/default.asp) (**recommended**)
 - [**Official NumPy Documentation**](https://numpy.org/) for further reference as and when required
 
-Once you're done with the theory, we recommend that you attempt [**this optional assignment**](./Week1_NumPy_Assignment.ipynb) to practise using some popular NumPy functions. Make sure to download the Jupyter notebook from the repo before making changes to it.
+Once you're done with the theory, we recommend that you attempt [**this optional assignment**](./Week1/NumpyAssignment.ipynb) to practise using some popular NumPy functions. Make sure to download the Jupyter notebook from the repo before making changes to it.
 
 ## Jupyter Notebooks
 Instead of building traditional Python scripts, in this project we will be using **Jupyter Notebooks** to write and run your code.
