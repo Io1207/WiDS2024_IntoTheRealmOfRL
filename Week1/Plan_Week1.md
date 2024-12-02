@@ -23,8 +23,8 @@ Welcome to Week 1 of the **Winter in Data Science: Into the Realm of RL** progra
 
 This section will introduce you to the basics of RL, setting the stage for understanding the Multi-Armed Bandit problem.
 
-1. **Slides**: David Silver’s [Lecture 1](../David%20Silver%20Slides/lec1.pdf) from the `David Silver Slides` folder
-2. **Textbook**: [Chapter 1](../SuttonBartoIPRLBook2ndEd.pdf) from *Sutton & Barto’s Introduction to Reinforcement Learning* (2nd Edition)
+1. **Slides**: David Silver’s [Lecture 1](../Resources/David%20Silver%20Slides/lec1.pdf) from the `David Silver Slides` folder
+2. **Textbook**: [Chapter 1](../Resources/SuttonBartoIPRLBook2ndEd.pdf) from *Sutton & Barto’s Introduction to Reinforcement Learning* (2nd Edition)
 3. **Online Article**: [Introduction to Reinforcement Learning on Geeks for Geeks](https://www.geeksforgeeks.org/what-is-reinforcement-learning/)
 
 These resources cover the essential principles of RL, including key concepts, terminology, and applications.
@@ -33,8 +33,8 @@ These resources cover the essential principles of RL, including key concepts, te
 
 The MAB problem is a simple yet powerful example in RL that illustrates how to handle exploration and exploitation. You’ll learn about the Epsilon-Greedy approach, a common strategy to solve the MAB problem.
 
-1. **Slides**: David Silver’s [Lecture 9](../David%20Silver%20Slides/lec9.pdf) from the `David Silver Slides` folder
-2. **Textbook**: Section 2.1 and 2.2 from [Chapter 2](../SuttonBartoIPRLBook2ndEd.pdf) of *Sutton & Barto’s Introduction to Reinforcement Learning* (2nd Edition)
+1. **Slides**: David Silver’s [Lecture 9](../Resources/David%20Silver%20Slides/lec9.pdf) from the `David Silver Slides` folder
+2. **Textbook**: Section 2.1 and 2.2 from [Chapter 2](../Resources/SuttonBartoIPRLBook2ndEd.pdf) of *Sutton & Barto’s Introduction to Reinforcement Learning* (2nd Edition)
 3. **Additional Resource**: [Multi-Armed Bandit Problem Explanation](https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/)
 
 These readings will give you a theoretical and practical understanding of the MAB problem and prepare you for future work in RL.
