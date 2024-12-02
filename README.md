@@ -46,7 +46,10 @@ Jupyter notebooks allow you to divide your code into multiple cells that you can
 
 > **Note:** The weekly plan will be updated every week. Please keep an eye on it!
 
-### [Week 1](./Week1/README.md)
+### [Week 1](./Week1/Plan_Week1.md)
+### [Week 2](./Week2/Plan_Week2.md)
+### [Week 3](./Week3/Plan_Week3.md)
+### [Week 4](./Week4/Plan_Week4.md)
 
 
 
