@@ -26,6 +26,7 @@ Welcome to Week 2 of the Reinforcement Learning program! This week, we’ll delv
 - **Resources**:
   - **[Lecture 2](../Resources/David%20Silver%20Slides/lec2.pdf)** from David Silver’s RL Slides (`lec2.pdf`)
   - **[Chapter 3](../Resources/SuttonBartoIPRLBook2ndEd.pdf)** of *Reinforcement Learning: An Introduction* by Sutton & Barto (`SuttonBartoIPRLBook2ndEd.pdf`)
+  - **[Section 1 & 2](../Resources/RLAlgsInMDPs.pdf)** from `RLAlgsInMDPs.pdf`
 
 ### 3. Assignment
 - **Task**: Implement and analyze different MAB techniques (Epsilon-Greedy, UCB, and Thompson Sampling) in the provided notebook:
