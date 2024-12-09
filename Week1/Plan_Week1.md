@@ -1,4 +1,4 @@
-# Week 1: Introduction to Numpy and Multi-Armed Bandits (MAB)
+# Week 1: Introduction to Numpy and Multi-Armed Bandits (MAB) (Dec 10th - Dec 16th)
 
 Welcome to Week 1 of the **Winter in Data Science: Into the Realm of RL** program! This week, we’ll cover the basics of the `numpy` library, an essential tool for efficient data manipulation, and introduce you to the fundamentals of Reinforcement Learning (RL) through the Multi-Armed Bandit (MAB) problem.
 
