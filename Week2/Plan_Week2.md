@@ -1,4 +1,4 @@
-# Week 2: Advanced Multi-Armed Bandit Techniques and Markov Decision Processes
+# Week 2: Advanced Multi-Armed Bandit Techniques and Markov Decision Processes (Dec 17th - Dec 23rd)
 
 Welcome to Week 2 of the Reinforcement Learning program! This week, we’ll delve deeper into the **Multi-Armed Bandit (MAB)** problem, exploring advanced techniques, and start learning about **Markov Decision Processes (MDPs)**, a foundational concept in reinforcement learning.
 
