@@ -1,4 +1,4 @@
-# Week 3: Dynamic Programming - Concepts and Implementation
+# Week 3: Dynamic Programming - Concepts and Implementation (Dec 24th - Dec 30th)
 
 Welcome to Week 3 of the Reinforcement Learning program! This week, we venture into **Dynamic Programming (DP)**, a powerful approach for solving Markov Decision Processes (MDPs). The focus will be on learning core DP techniques and implementing two classic problems.
 
