@@ -50,6 +50,6 @@ Jupyter notebooks allow you to divide your code into multiple cells that you can
 ### [Week 2](./Week2/Plan_Week2.md)
 ### [Week 3](./Week3/Plan_Week3.md)
 ### [Week 4](./Week4/Plan_Week4.md)
-
+### [Project](./Project/README.md)
 
 
