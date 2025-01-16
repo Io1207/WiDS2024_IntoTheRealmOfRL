@@ -60,7 +60,7 @@ def mazeSolverUsingRL():
 
 
 # Game flow
-if _name_ == "_main_":
+if __name__ == "_main_":
     width, height=21,21
     
     simulator = MazeSimulator(width, height)
